@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1895225_ims.device_management" name="x_1895225_ims.device_management">6aeecdeec37632103da8fc84e4013137</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-04 10:03:24</sys_created_on>
+        <sys_id>e2eecdeec37632103da8fc84e401313c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6aeecdeec37632103da8fc84e4013137</sys_name>
+        <sys_package display_value="IMS" source="x_1895225_ims">3cbe0122c3b632103da8fc84e40131d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMS">3cbe0122c3b632103da8fc84e40131d9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_e2eecdeec37632103da8fc84e401313c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-04 10:03:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

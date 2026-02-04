@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Business Solution</description>
+        <device_type>browser</device_type>
+        <hint>Business Solution</hint>
+        <name/>
+        <order/>
+        <roles>x_1895225_ims.device_management,x_1895225_ims.release_management,x_1895225_ims.dispatch_management,x_1895225_ims.end_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-02-04 10:14:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c7515d26c3b632103da8fc84e4013188</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IMS</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IMS" source="x_1895225_ims">3cbe0122c3b632103da8fc84e40131d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IMS">3cbe0122c3b632103da8fc84e40131d9</sys_scope>
+        <sys_update_name>sys_app_application_c7515d26c3b632103da8fc84e4013188</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-02-04 10:14:05</sys_updated_on>
+        <title>IMS</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
